@@ -24,4 +24,4 @@ Recommendation: focus retention on the first year of employment, reduce overtime
 Interactive Excel dashboard: KPI cards, 4 pivot charts, Department and Gender slicers wired to all visuals.
 
 ## Tools
-Excel — pivot tables & charts, slicers, COUNTIF/AVERAGEIF/IFS, custom number formats, conditional formatting
+Excel - pivot tables & charts, slicers, COUNTIF/AVERAGEIF/IFS, custom number formats, conditional formatting
