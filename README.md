@@ -15,7 +15,7 @@ Standardized categorical variants ("HR" → "Human Resources", "M" → "Male", e
 Filled missing EducationField values with "Unknown"; left numeric JobSatisfaction blanks empty to preserve averages
 
 ## Key Findings
-Attrition is concentrated among new hires (0–1 years) and overtime employees — and the risks stack: first-year employees working overtime leave at 46.3%, quadruple the rate of tenured staff without overtime (11.1%).
+Attrition is concentrated among new hires (0–1 years) and overtime employees - and the risks stack: first-year employees working overtime leave at 46.3%, quadruple the rate of tenured staff without overtime (11.1%).
 Job satisfaction shows a cliff, not a slope: employees rating it 1 leave at 30.9%, while ratings 2–4 all hover around 20%.
 Attrition is nearly uniform across departments (21.4%–23.7%), ruling out team-specific causes.
 Recommendation: focus retention on the first year of employment, reduce overtime load, and identify actively dissatisfied employees before they exit.
