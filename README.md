@@ -1,4 +1,4 @@
-# hr-attrition-analysis
+# HR Attrition Analysis (Excel)
 Excel HR attrition analysis: data cleaning, pivot analysis, and interactive dashboard
 <img width="1540" height="856" alt="HR_attrition_dashboard" src="https://github.com/user-attachments/assets/94c4c4f0-7bec-40f7-87a6-4eb9c7cf6eab" />
 
